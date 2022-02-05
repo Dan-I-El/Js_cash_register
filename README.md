@@ -1,2 +1,2 @@
-# Js_cash_register
- My cash register using Js
+# Js_cash-register
+ My cash register using Javascript
